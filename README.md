@@ -1,7 +1,7 @@
 
 # Projeto de Análise de Dados em Python (AmazonPrime)
 
-Este projeto tem como objetivo realizar a **análise completa de um conjunto de dados em formato CSV** contendo mais de **9.000 registros**, passando por todas as etapas do processo de **ETL (Extração, Transformação e Carga)** até a **preparação dos dados para aprendizado de máquina**.
+Este projeto tem como objetivo realizar a **análise completa de um conjunto de dados em formato CSV** contendo mais de **9.000 registros**, passando por todas as etapas do processo de **ETL (Extração, Transformação e Carga)** até a **preparação dos dados para aprendizado de máquina**
 
 ---
 
