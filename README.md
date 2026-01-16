@@ -11,7 +11,7 @@ Este projeto tem como objetivo realizar a **análise completa de um conjunto de 
 - Aplicar **transformações** para tratar valores ausentes e inconsistências  
 - Executar **análises exploratórias** e **visualizações** para compreender o comportamento dos dados  
 - Preparar o dataset para **modelos de Machine Learning**, aplicando normalização e divisão em treino e teste  
-- Criar uma base sólida para experimentos com **modelos de classificação e regressão**
+- Criar uma base sólida para experimentos com **modelos de classificação e regressão** 
 
 ---
 
