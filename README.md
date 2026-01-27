@@ -52,7 +52,7 @@ Este projeto tem como objetivo realizar a **análise completa de um conjunto de 
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
