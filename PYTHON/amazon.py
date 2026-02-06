@@ -154,4 +154,5 @@ if dados is not None:
     print("Conjuntos de treino e teste salvos com sucesso.")
 
 else:
-    print("Erro ao carregar o arquivo.")
+
+    print("Erro ao carregar o arquivo selecionado.")
