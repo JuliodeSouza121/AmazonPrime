@@ -51,10 +51,15 @@ Este projeto tem como objetivo realizar a **análise completa de um conjunto de 
 - O pipeline ETL desenvolvido pode ser facilmente adaptado para outros conjuntos de dados.
 
 ![Descrição](PYTHON/GRÁFICOS/ano_lancamento.png)
+
 ![Descrição](PYTHON/GRÁFICOS/classificacao.png)
+
 ![Descrição](PYTHON/GRÁFICOS/evolucao.png)
+
 ![Descrição](PYTHON/GRÁFICOS/filmes_series.png)
+
 ![Descrição](PYTHON/GRÁFICOS/top10.png)
+
 ---
 
 ## Como Executar o Projeto
