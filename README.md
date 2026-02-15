@@ -50,6 +50,7 @@ Este projeto tem como objetivo realizar a **análise completa de um conjunto de 
 - As análises exploratórias revelaram padrões importantes e possíveis variáveis preditivas.  
 - O pipeline ETL desenvolvido pode ser facilmente adaptado para outros conjuntos de dados.
 
+![Descrição](gráfico_reale_year.png).
 ---
 
 ## Como Executar o Projeto
